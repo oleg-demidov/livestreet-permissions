@@ -1,0 +1,1 @@
+ALTER TABLE `prefix_rbac_role` ADD `price` FLOAT NULL AFTER `state`;

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+	<name>
+		<lang name="default">Permissions</lang>
+	</name>
+	<author>
+		<lang name="default">Oleg Demidov</lang>
+	</author>
+	<homepage>https://vk.com/u_demidova</homepage>
+	<settings>{admin/plugin/permissions}</settings>
+	<version>1.0</version>
+	<requires>
+		<livestreet>2.0.1</livestreet>
+		<plugins>
+		</plugins>
+	</requires>
+	<description>
+		<lang name="default">The extension of rights management</lang>
+		<lang name="russian">Расширение управления правами</lang>
+	</description>
+</plugin>
